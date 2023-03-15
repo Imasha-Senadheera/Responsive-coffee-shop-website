@@ -1,5 +1,5 @@
 ### Responsive-coffee-shop-website ☕
-This is just a responsive coffee shop website, created by using HTML, CSS &amp; JS. <br>
+This is just a responsive coffee shop website, created by using HTML, CSS &amp; JS. (front-end)  <br>
 
 ### ScreenShot of the Website 
 
